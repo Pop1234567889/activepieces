@@ -103,7 +103,7 @@
     "typeorm": "0.3.31",
     "typeorm-pglite": "0.3.2",
     "unpdf": "1.4.0",
-    "zod": "4.3.6",
+    "zod": "4.6.6",
     "@activepieces/core-utils": "workspace:*",
     "@activepieces/core-formula": "workspace:*",
     "@activepieces/core-piece-types": "workspace:*",
